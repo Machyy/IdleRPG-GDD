@@ -1,6 +1,6 @@
 ## Locations
 - Ze startu hry je pouze dostupná jedná lokace (**Opuštěné sousedství**)
-- Hráč aby odemkl další lokaci, musí splnit minimální požadovaný level a dokončit aktuální lokaci (vyhraje finální quest s bossem)
+- Hráč aby odemkl další lokaci, musí splnit minimální požadovaný level a dokončit aktuální lokaci (vyhraje finální quest s [[#Boss]])
 - Každá lokace má své jedinečné questy a nepřátele
 
 | #   | Location name           | Required level | Boss            |
@@ -35,3 +35,8 @@ Nápady:
 	- Hráč má k dispozici až 3x za placenou měnu si resetovat progress v kontrétní lokaci každý den
 	- Hráč má energii, kterou využívá po zapnutí questu. Energie se obnovuje po čase (např. 1/h). Energii může hráč si doplnit přes různé itemy, které může najít nebo zakoupit u Tradera.
 - Každá lokace má finální quest (boss), který se zobrazí když poprvé dokončíš celou mapu. Hráč dostane bonusové větší XP a unique item.
+
+## Boss
+- Když hráč poprvé dokončí všechny úkoly v lokaci tak se zobrazí "finální quest", který dává bonusové XP a Scrap po dokončení
+- Finální quest je takový boss fight (každá lokace má svého jedinečného bosse)
+- Po dokončení hráč dostane **unique** item

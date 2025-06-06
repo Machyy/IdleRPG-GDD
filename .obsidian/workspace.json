@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Quest system.md",
+                "file": "Mechanics/Camp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quest system"
+              "title": "Camp"
             }
           }
         ]
@@ -140,27 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Introduction.md",
+                "file": "Mechanics/Camp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
-            }
-          },
-          {
-            "id": "38db4a53ae5cb02e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Camp"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,12 +169,12 @@
   },
   "active": "dca30b0dfa69c8aa",
   "lastOpenFiles": [
-    "IdleRPG-GDD",
-    "Mechanics/Camp.md",
     "Mechanics/Player.md",
-    "Locations/Opuštěné sousedství.md",
-    "General/Introduction.md",
     "Mechanics/Quest system.md",
+    "General/Introduction.md",
+    "Locations/Opuštěné sousedství.md",
+    "Mechanics/Camp.md",
+    "IdleRPG-GDD",
     "Quests/Opuštěné sousedství/Untitled.md",
     "Quests/Opuštěné sousedství",
     "Locations",
