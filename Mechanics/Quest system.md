@@ -36,7 +36,11 @@ Nápady:
 	- Hráč má energii, kterou využívá po zapnutí questu. Energie se obnovuje po čase (např. 1/h). Energii může hráč si doplnit přes různé itemy, které může najít nebo zakoupit u Tradera.
 - Každá lokace má finální quest (boss), který se zobrazí když poprvé dokončíš celou mapu. Hráč dostane bonusové větší XP a unique item.
 
-## Boss
+### Boss
 - Když hráč poprvé dokončí všechny úkoly v lokaci tak se zobrazí "finální quest", který dává bonusové XP a Scrap po dokončení
 - Finální quest je takový boss fight (každá lokace má svého jedinečného bosse)
 - Po dokončení hráč dostane **unique** item
+
+### Quest gameplay
+- Hráč má na výběr ze 3 možností, každá z možností má svou procentuální úspěšnost, které nabízejí větší odměnu za úkol, ale zároveň menší šanci úspěšnosti
+- Všechny úkoly mají své originální možnosti
