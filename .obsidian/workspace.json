@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47a0f2520245f861",
+        "id": "e1fbed316d5154fa",
         "type": "tabs",
         "children": [
           {
-            "id": "78193985b6990719",
+            "id": "8643ed36420f7e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Quest system.md",
+                "file": "Mechanics/Faction system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quest system"
+              "title": "Faction system"
             }
           }
         ]
@@ -140,17 +140,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics/Quest system.md",
+                "file": "General/Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quest system"
+              "title": "Outline of Introduction"
+            }
+          },
+          {
+            "id": "38db4a53ae5cb02e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,17 +173,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78193985b6990719",
+  "active": "8643ed36420f7e3d",
   "lastOpenFiles": [
+    "Mechanics/Camp.md",
+    "Mechanics/Faction system.md",
+    "General/Introduction.md",
     "Mechanics/Player.md",
     "Mechanics/Fighting system.md",
+<<<<<<< HEAD
     "Mechanics/Camp.md",
     "General/Introduction.md",
     "Mechanics/Quest system.md",
     "Locations/Opuštěné sousedství.md",
+=======
+    "Locations/Opuštěné sousedství.md",
+    "Mechanics/Quest system.md",
+>>>>>>> 4f71ca154fd2686ff305f0f4a45cbb5545263dd1
     "IdleRPG-GDD",
     "Quests/Opuštěné sousedství/Untitled.md",
     "Quests/Opuštěné sousedství",
