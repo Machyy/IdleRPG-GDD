@@ -21,7 +21,7 @@ Gacha systém (inspirovaný Hoyoverse hrami)
 | Každý **80. pull** | **Legendary** (🟨)              |
 
 Pull #1–9         → běžné šance
-Pull #10          → pokud padl horší než EpIc, nahradí se Epic+
+Pull #10          → pokud padl horší než Epic, nahradí se Epic+
 Pull #11–79    → běžné šance, každá 10. má Epic+
 Pull #80          → vždy Legendary
 → Cyklus pokračuje

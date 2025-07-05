@@ -1,0 +1,3 @@
+Hráč si zvolí daný quest v lokaci vyskočí mu okénko s detaily (název, popis, odměna) s tlačítkem na spuštění. Jakmile hráč spustí quest zobrazí se scéna s pozadím lokace, s název questu a dole bude progress bar a čas za jak dlouho quest bude splněn společně s tlačítkem pro přeskočení času za
+1 GF (Glitch Fragment) a tlačítko zrušit (quest bude zrušen, energie bude vrácena, nic se nestane).
+Jakmile časovač dojede tak se spustí souboj, když hráč vyhraje tak se ukáže okénko s nápisem "Victory" a získanou odměnou s tlačítkem "Done"

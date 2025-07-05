@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microtransactions/Pulls.md",
+                "file": "Mechanics/Player.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pulls"
+              "title": "Player"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Faction system.md",
+                "file": "Mechanics/BETA Quest system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Faction system"
+              "title": "Backlinks for BETA Quest system"
             }
           },
           {
@@ -170,10 +170,12 @@
   },
   "active": "276e2364f2dc9452",
   "lastOpenFiles": [
-    "Microtransactions/Currency.md",
-    "Microtransactions/Pulls.md",
-    "Microtransactions",
+    "Mechanics/BETA Quest system.md",
     "Mechanics/Quest system.md",
+    "Mechanics/Items.md",
+    "Microtransactions/Pulls.md",
+    "Microtransactions/Currency.md",
+    "Microtransactions",
     "Mechanics/Player.md",
     "Mechanics/Fighting system.md",
     "Mechanics/Faction system.md",
