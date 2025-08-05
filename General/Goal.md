@@ -1,0 +1,3 @@
+- **Cíl před vydáním: 20 000+ wishlistů**
+- **Minimum pro slušný launch: 10 000**
+- **Bonusový boost: 30 000–50 000

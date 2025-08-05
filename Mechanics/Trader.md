@@ -1,0 +1,7 @@
+- Trader má 6 slotů na itemy
+- Každý slot obsahuje random item
+- Po každém načtení nového itemu se zkontroluje level hráče aby se staty na zbrani přizpůsobily aktuální úrovni hráče
+- Po koupi itemu se automaticky ve slotu nahradí novým
+- Je tam button který refreshne celý obchod za 1 GF, všechny itemy se přizpůsobí opět úrovni hráče
+- Když hráč přetáhne item z inventáře nebo z loadoutu do Trader pole tak se item prodá
+- Je 5% šance že se objeví Glitched item u Tradera
