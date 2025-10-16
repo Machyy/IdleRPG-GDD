@@ -1,4 +1,14 @@
-Hráč má na výběr ze 3 základních frakcí do kterých se může připojit. Plněním úkolů pro danou frakci získává reputaci a odměny. Budou i eventy, které se týkají frakcí. Každá z nich má vlastní Damage a Defend abililtu. Jsou to ve své podstatě takové třídy.
+Souboj je turn-based, hráč má na výběr v základu Basic Attack a Basic Defend, po dosažení levelu 5 se hráči odemknou frakce a vybere si jednu z nich. Frakce dají hráč speciální Damage a Defend abilitu a Basic Defend je zruší, ale Basic Attack zůstává.
+# Logic
+- **Basic Attack**: vždy dostupný, 0 cooldown, škálovaný podle vybavené zbraně.
+    - Meč = melee strike
+    - Luk = střelba
+    - Kladivo = těžký úder  
+    - Dýka = rychlý double strike  
+    
+- **DMG abilita**: unikátní pro frakci (4 kola CD, nebo variace).
+    
+- **DEFEND abilita**: unikátní pro frakci (2–3 kola CD).
 # Factions
 | Frakce                     | Odkaz na hru                 | DMG abilita (CD ~4)                                                            | DEFEND abilita (CD ~2–3)                                                   | Lore / poznámka                                          |
 | -------------------------- | ---------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------- |
