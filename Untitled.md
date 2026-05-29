@@ -1,3 +1,0 @@
-In a world where the internet bleeds into reality… chaos isn’t a bug. It’s the feature. Welcome to Glitchout.
-
-Hi, I’m Filip from Lonely Arts, and this is the very first devlog for Glitchout – our weird little post-apocalyptic idle RPG. It’s a game where you explore a broken wasteland, take on quests from glitchy characters, fight corrupted encounters, and collect items that feel like they’ve fallen straight out of cyberspace. 

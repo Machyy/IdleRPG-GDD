@@ -1,4 +1,4 @@
-- Trader má 6 slotů na itemy
+- Trader má 5 slotů na itemy
 - Každý slot obsahuje random item
 - Po každém načtení nového itemu se zkontroluje level hráče aby se staty na zbrani přizpůsobily aktuální úrovni hráče
 - Po koupi itemu se automaticky ve slotu nahradí novým

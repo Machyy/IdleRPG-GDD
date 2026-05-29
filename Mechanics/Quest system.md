@@ -28,19 +28,10 @@ Nápady:
 - Gotická katedrála
 
 ## Quests
-- Každá lokace má 20 unikátních questů, které se náhodně vyberou a zobrazí
-- Odměny za úkoly jsou počítané z hráčského levelu, štěstí a je tam náhodný range kolik hráč dostane.
-- Každá lokace má 10 quest slotů na mapě.
-- Vždy se zobrazí prvních 5 náhodných úkolů ze 20 na náhodných slotech. Po každém dokončení úkolu se zobrazí nový quest na volném náhodném slotu, jakmile všechny sloty budou zabrané tak se nové questy zobrazovat nebudou a hráč bude muset počkat na world reset (o půlnoci každý den)
-	- Hráč má k dispozici až 3x za placenou měnu si resetovat progress v kontrétní lokaci každý den
-	- Hráč má energii, kterou využívá po zapnutí questu. Energie se obnovuje po čase (např. 1/h). Energii může hráč si doplnit přes různé itemy, které může najít nebo zakoupit u Tradera.
-- Každá lokace má finální quest (boss), který se zobrazí když poprvé dokončíš celou mapu. Hráč dostane bonusové větší XP a unique item.
-
-### Boss
-- Když hráč poprvé dokončí všechny úkoly v lokaci tak se zobrazí "finální quest", který dává bonusové XP a Scrap po dokončení
-- Finální quest je takový boss fight (každá lokace má svého jedinečného bosse)
-- Po dokončení hráč dostane **unique** item
-
-### Quest gameplay
-- Hráč má na výběr ze 3 možností, každá z možností má svou procentuální úspěšnost, které nabízejí větší odměnu za úkol, ale zároveň menší šanci úspěšnosti
-- Všechny úkoly mají své originální možnosti
+- Po zapnutí questu hráč má na výběr 3 možnosti
+	- Dveře (postupuje dále do dalšího levelu questu bez žádného efektu)
+	- Krabice/Loot (otevře loot a může získat scrap/item)
+	- Enemy (spustí se souboj po boji se spustí další level questu)
+	- NPC (spustí se dialog)
+	- Objective (záleží na typu questu)
+- Quest má vždy 3 levely.

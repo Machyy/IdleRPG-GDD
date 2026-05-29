@@ -9,11 +9,11 @@ Gacha systém (inspirovaný Hoyoverse hrami)
 
 | Úroveň       | Barva   | Pravděpodobnost |
 | ------------ | ------- | --------------- |
-| 🟨 Legendary | Zlatá   | 1%              |
-| 🟪 Epic      | Fialová | 5%              |
+| 🟨 Legendary | Zlatá   | 0,5%            |
+| 🟪 Epic      | Fialová | 2,5%            |
 | 🟦 Rare      | Modrá   | 20%             |
-| 🟩 Uncommon  | Zelená  | 30%             |
-| ⚪ Common     | Šedá    | 44%             |
+| 🟩 Uncommon  | Zelená  | 32%             |
+| ⚪ Common     | Šedá    | 45%             |
 
 | Typ pullu          | Garance                         |
 | ------------------ | ------------------------------- |
@@ -30,8 +30,8 @@ Pokud padne Legendary tak se opět Pull count přesune na #1 (cyklus se celý re
 
 | Rarita       | Poměr | Výsledná šance |
 | ------------ | ----- | -------------- |
-| 🟨 Legendary | 1     | **10%**        |
-| 🟪 Epic      | 9     | **90%**        |
+| 🟨 Legendary | 1     | **1%**         |
+| 🟪 Epic      | 9     | **99%**        |
 ## 80. pull chances
 | Rarita       | Poměr | Výsledná šance |
 | ------------ | ----- | -------------- |

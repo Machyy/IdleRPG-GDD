@@ -1,10 +1,6 @@
 Souboj je turn-based, hráč má na výběr v základu Basic Attack a Basic Defend, po dosažení levelu 5 se hráči odemknou frakce a vybere si jednu z nich. Frakce dají hráč speciální Damage a Defend abilitu a Basic Defend je zruší, ale Basic Attack zůstává.
 # Logic
 - **Basic Attack**: vždy dostupný, 0 cooldown, škálovaný podle vybavené zbraně.
-    - Meč = melee strike
-    - Luk = střelba
-    - Kladivo = těžký úder  
-    - Dýka = rychlý double strike  
     
 - **DMG abilita**: unikátní pro frakci (4 kola CD, nebo variace).
     

@@ -21,9 +21,7 @@
 - Určuje maximální život hráče
 ### Inteligence
 - Pomocí inteligence hráč dokáže craftit itemy, čím větší inteligence tak tím lepší itemy
-- Odemyká rozhodnutí v úkolech
 ### Štěstí
 - Zvětšuje šanci na větší odměny z úkolů
-- Odemyká rozhodnutí v úkolech
 ### Obrana
 - Redukuje nepřátelské poškození
