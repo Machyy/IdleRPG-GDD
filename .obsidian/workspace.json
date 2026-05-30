@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Combat.md",
+                "file": "Mechanics/Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "Weapons"
             }
           }
         ]
@@ -171,24 +171,24 @@
   },
   "active": "d21cb8a17a2e8067",
   "lastOpenFiles": [
+    "Mechanics/Wipes.md",
+    "Mechanics/Weapons.md",
+    "Mechanics/Combat.md",
     "Mechanics/Camp.md",
-    "Mechanics/Bez názvu.md",
+    "Mechanics/BETA Quest system.md",
+    "General/Goal.md",
+    "Microtransactions/Currency.md",
     "Mechanics/Player.md",
     "Mechanics/Bez názvu 1.md",
     "Mechanics/Fighting system.md",
     "Mechanics/Faction system.md",
-    "Mechanics/Combat.md",
     "Nápady.md",
     "Playtest 0.1.md",
-    "Mechanics/Wipes.md",
     "Mechanics/Quest system.md",
     "Mechanics/Items.md",
-    "General/Goal.md",
     "General/Introduction.md",
     "Microtransactions/Pulls.md",
-    "Microtransactions/Currency.md",
     "Mechanics/Trader.md",
-    "Mechanics/BETA Quest system.md",
     "Locations/Opuštěné sousedství.md",
     "Microtransactions"
   ]
