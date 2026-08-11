@@ -1,4 +1,5 @@
 Expedice je v podstatě quest, akorát více rozsáhlý (je to náš quest systém), každá má svoji cestu (EXPEDITION PATH) skrz, kterou musí hráč kompletně projít aby ji dokončil a získal odměnu ve formě XP, Scrapů, popřípadě itemů
+Expedice mohou mít pouze maximum 7 částí, mohou být i různé s méně
 ## PATH Types
 ### Story
 - Čistě informační část o průběhu příběhu, většinou se bude nacházet na první pozici
