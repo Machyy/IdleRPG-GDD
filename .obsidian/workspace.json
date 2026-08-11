@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Weapons.md",
+                "file": "Mechanics/Expeditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapons"
+              "title": "Expeditions"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Průzkumník souborů"
@@ -171,9 +173,10 @@
   },
   "active": "d21cb8a17a2e8067",
   "lastOpenFiles": [
-    "Mechanics/Wipes.md",
-    "Mechanics/Weapons.md",
     "Mechanics/Combat.md",
+    "Mechanics/Expeditions.md",
+    "Mechanics/Weapons.md",
+    "Mechanics/Wipes.md",
     "Mechanics/Camp.md",
     "Mechanics/BETA Quest system.md",
     "General/Goal.md",
